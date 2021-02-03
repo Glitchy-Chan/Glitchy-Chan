@@ -18,7 +18,7 @@ Hello! (*・ω・)ﾉ Welcome to my profile. I am fairly new to coding, and I am
 [![Twitch]["twitch"]](https://www.twitch.tv/gl1tchychan?follow)
 [![Github]["github"]](https://github.com/Glitchy-Chan)
 [![Instagram]["intsa"]](https://www.instagram.com/gl1tchychan)
-[![LinkedIn]["linkedin"]](https://www.linkedin.com/in/glitchy-chan-037046205/)
+[![LinkedIn]["linkedin"]](https://www.linkedin.com/in/samuel-riggs-037046205)
 [![Discord]["discord"]](https://discord.gg/ZxbYHEh)
 
 ## 💻Languages and Tools
